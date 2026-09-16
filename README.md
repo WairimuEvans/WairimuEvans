@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Jeff Evans Wairimu 👋
 
-<!--
-**WairimuEvans/WairimuEvans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently learning software development through the IYF Weekend Academy.
 
-Here are some ideas to get you started:
+I'm interested in technology, programming, and building useful projects while developing my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Setup
+
+1. Git
+2. Visual Studio Code
+3. Live Server
+4. Prettier
+5. Node.js v24.21.0
+6. Google Chrome
