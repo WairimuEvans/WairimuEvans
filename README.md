@@ -19,3 +19,7 @@ I'm interested in technology, programming, and building useful projects while de
 user.name=Jeff Evans Wairimu
 user.email=evanswjeff@gmail.com
 ```
+
+## Links
+
+[My GitHub Pages website](https://wairimuevans.github.io)
