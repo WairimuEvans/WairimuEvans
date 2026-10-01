@@ -32,5 +32,5 @@ user.email=evanswjeff@gmail.com
 ```
 
 ## How to Reach Me
-[Email]: evanswjeff@gmail.com
+[MY Email]: evanswjeff@gmail.com
 [My GitHub Pages website](https://wairimuevans.github.io)
