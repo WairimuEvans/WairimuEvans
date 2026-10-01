@@ -7,7 +7,7 @@ I'm interested in technology, programming, and building practical digital projec
 
 I'm looking to collaborate on beginner-friendly web development and open-source projects.
 
-##Skills I'm Building
+## Skills I'm Building
 . Git and Github
 . HTML
 . CSS
