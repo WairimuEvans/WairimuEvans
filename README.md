@@ -31,6 +31,6 @@ user.name=Jeff Evans Wairimu
 user.email=evanswjeff@gmail.com
 ```
 
-## How to Reach Me
+## Link
 
-[My GitHub Pages website](https://wairimuevans.github.io)
+[My GitHub Page](github.com/wairimuevans)
