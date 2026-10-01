@@ -33,4 +33,4 @@ user.email=evanswjeff@gmail.com
 
 ## How to Reach Me
 
-. [Email:](evanswjeff@gmail.com)
+.Email: evanswjeff@gmail.com
