@@ -12,19 +12,19 @@ https://github.com/Daisy10688/programming-languages-overview
 
 ## Skills I'm Building
 
-. Git and Github
-. HTML
-. CSS
-.JavaScript
-. Responsive Web Design
-. Web Development
+* Git and Github
+* HTML
+* CSS
+* JavaScript
+* Responsive Web Design
+* Web Development
 
 ## Setup
 
 
 * Git
 * Visual Studio Code
-*Live Server
+* Live Server
 * Prettier
 * Node.js v24.21.0
 * Google Chrome
