@@ -15,7 +15,7 @@ https://github.com/Daisy10688/programming-languages-overview
 . Git and Github
 . HTML
 . CSS
-[] JavaScript
+[.] JavaScript
 . Responsive Web Design
 . Web Development
 
