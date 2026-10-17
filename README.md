@@ -22,12 +22,13 @@ https://github.com/Daisy10688/programming-languages-overview
 ## Setup
 
 * hi
-. Git
-. Visual Studio Code
-. Live Server
-. Prettier
-. Node.js v24.21.0
-. Google Chrome
+
+* Git
+* Visual Studio Code
+*Live Server
+* Prettier
+* Node.js v24.21.0
+* Google Chrome
 
 ### Git Configuration
 
