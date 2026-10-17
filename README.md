@@ -21,6 +21,7 @@ https://github.com/Daisy10688/programming-languages-overview
 
 ## Setup
 
+* hi
 . Git
 . Visual Studio Code
 . Live Server
